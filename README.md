@@ -7,13 +7,6 @@ Each video is a sequence of 30 frames (or images)
 
 ## Features
 
-- **Gesture Recognition**: The model can recognize the following gestures:
-  - **Thumbs Up**: Increase volume
-  - **Thumbs Down**: Decrease volume
-  - **Left Swipe**: Jump backward 10 seconds
-  - **Right Swipe**: Jump forward 10 seconds
-  - **Stop**: Pause the movie
-
 | Gesture       | Action                          |
 |---------------|---------------------------------|
 | **Thumbs Up** | Increase volume                  |
@@ -56,5 +49,5 @@ The project experimented with multiple models to optimize accuracy and reduce ov
 
 **Model 13** was selected as the final model due to its balanced performance, with minimal overfitting and optimal validation accuracy and loss.
 
-Developed by MRaoShivani
+Developed by @MRaoShivani
 
