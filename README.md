@@ -49,5 +49,5 @@ The project experimented with multiple models to optimize accuracy and reduce ov
 
 **Model 13** was selected as the final model due to its balanced performance, with minimal overfitting and optimal validation accuracy and loss.
 
-Developed by @MRaoShivani
+Developed by MRaoShivani
 
